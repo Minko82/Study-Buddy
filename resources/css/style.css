@@ -1,0 +1,18 @@
+:root {
+    --background-color: #FFF1F5;
+    --accent-color: #FFB7CC;
+    --text-color: black;
+}
+
+.quicksand {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "quicksand";
+    background-color: var(--background-color);
+}
